@@ -2,7 +2,7 @@
 
 ## AI-native product leader | Growth systems | Builder
 
-### Designing and shipping AI products + workflows for trust and growth.
+### Designing and delivering AI products for trust and growth
 
 I build AI-driven products that create deliver business outcomes. My background includes product management, UX, and front-end engineering. I’ve led 0→1 at hypergrowth startups (Aurora Solar, FalconX) and delivered impact at scale for globlal brands (Samsung, Meta, Salesforce). My experience with AI/ML includes building explainable AI at Meta and leading NLP chatbot design for 20M Samsung users. Today, I focus on AI-native product development: designing systems where LLMs are core components of workflow, decision-making, and user value creation.
 
