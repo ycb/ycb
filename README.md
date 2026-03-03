@@ -63,33 +63,22 @@ Operational guidelines for working effectively with AI copilots in production co
 
 I view AI product development as four layers:
 
-	1.	User Intent Layer — clarify job-to-be-done
+	1. User Intent Layer — clarify job-to-be-done
+	2. Orchestration Layer — structured prompts + routing
+	3. Validation Layer — enforce schema, detect failure
+	4. Measurement Layer — track behavioral impact
 
-	2.	Orchestration Layer — structured prompts + routing
-	
-	3.	Validation Layer — enforce schema, detect failure
-	
-	4.	Measurement Layer — track behavioral impact
-
-The differentiator is not model choice.
-It’s system design and business integration.
+The differentiator is not model choice. It’s system design and business integration.
 
 
 ## 🛠 Stack & Tools
-	•	React, TypeScript, Vite
-	
-	•	Python
-	
-	•	OpenAI APIs
-	
-	•	Supabase
-	
-	•	Structured prompt pipelines
-	
-	•	CI/CD automation
-	
-	•	Event-driven workflows
-
+	* React, TypeScript, Vite
+	* Python
+	* OpenAI APIs
+	* Supabase
+	* Structured prompt pipelines
+	* CI/CD automation
+	* Event-driven workflows
 
 ## 📫 Contact
 
