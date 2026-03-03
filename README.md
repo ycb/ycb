@@ -82,6 +82,8 @@ The differentiator is not model choice. It’s system design and business integr
 
 ## 📫 Contact
 
-LinkedIn: [https://linkedin.com/in/pspan]  
-Website: [http://peterspannagle.com/]  
+LinkedIn: [https://linkedin.com/in/pspan]
+
+Website: [http://peterspannagle.com/]
+
 Substack: [http://roadmaps.substack.com]
