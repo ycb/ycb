@@ -56,7 +56,7 @@ Reusable patterns for AI-augmented product growth:
 
 Operational guidelines for working effectively with AI copilots in production codebases.
 
-👉 See: [cursor-ai-coding-playbook]((https://github.com/ycb/cursor-ai-coding-playbook)
+👉 See: [cursor-ai-coding-playbook](https://github.com/ycb/cursor-ai-coding-playbook)
 
 
 ## 🏗 How I Think About AI Product Systems
