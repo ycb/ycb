@@ -2,11 +2,10 @@
 
 AI-native product leader | Growth systems | Builder
 
-I design and ship AI-driven products that create measurable business outcomes.
+Designing and shipping AI products + workflows for trust and growth.
 
-My background includes product management, UX, and front-end engineering. I’ve led 0→1 at early stage starups (Aurora Solar, FalconX) and delivered impact at scale for globlal brands (Samsung, Meta, Salesforce). AI/ML expereince includes building explainable AI at Meta and leading NLP chatbot design for 20M Samsung users. Today, I focus on AI-native product development: designing systems where LLMs are core components of workflow, decision-making, and user value creation.
+I build AI-driven products that create deliver business outcomes. My background includes product management, UX, and front-end engineering. I’ve led 0→1 at hypergrowth startups (Aurora Solar, FalconX) and delivered impact at scale for globlal brands (Samsung, Meta, Salesforce). My experience with AI/ML includes building explainable AI at Meta and leading NLP chatbot design for 20M Samsung users. Today, I focus on AI-native product development: designing systems where LLMs are core components of workflow, decision-making, and user value creation.
 
-⸻
 
 🔎 What I Build
 
@@ -25,7 +24,6 @@ My work emphasizes:
 	•	Guardrails and failure handling
 	•	Shipping fast with measurable iteration loops
 
-⸻
 
 🚀 Flagship Projects
 
@@ -43,7 +41,6 @@ Core idea: move from “generate text” to “generate structured, reusable nar
 👉 See: narrata-cover-letter-agent
 👉 See: cover-letter-agent-prototype
 
-⸻
 
 📊 AI Growth Toolkit (Work in Progress)
 
@@ -53,7 +50,6 @@ Reusable patterns for AI-augmented product growth:
 	•	Experiment templates
 	•	LLM-assisted insight extraction
 
-⸻
 
 ⚙️ AI Development Playbook
 
@@ -61,7 +57,6 @@ Operational guidelines for working effectively with AI copilots in production co
 
 👉 See: cursor-ai-coding-playbook
 
-⸻
 
 🏗 How I Think About AI Product Systems
 
@@ -74,7 +69,6 @@ I view AI product development as four layers:
 The differentiator is not model choice.
 It’s system design and business integration.
 
-⸻
 
 🛠 Stack & Tools
 	•	React, TypeScript, Vite
@@ -84,8 +78,7 @@ It’s system design and business integration.
 	•	Structured prompt pipelines
 	•	CI/CD automation
 	•	Event-driven workflows
-
-⸻
+	
 
 📫 Contact
 
