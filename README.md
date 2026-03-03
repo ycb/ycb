@@ -38,8 +38,8 @@ AI system for structured cover letter and story generation.
 
 Core idea: move from “generate text” to “generate structured, reusable narrative assets.”
 
-👉 See: narrata-cover-letter-agent
-👉 See: cover-letter-agent-prototype
+👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
+👉 See: [cover-letter-agent-prototype](https://github.com/ycb/cover-letter-agent-prototype)
 
 
 ### 📊 AI Growth Toolkit (Work in Progress)
@@ -55,7 +55,7 @@ Reusable patterns for AI-augmented product growth:
 
 Operational guidelines for working effectively with AI copilots in production codebases.
 
-👉 See: cursor-ai-coding-playbook
+👉 See: [cursor-ai-coding-playbook]((https://github.com/ycb/cursor-ai-coding-playbook)
 
 
 ## 🏗 How I Think About AI Product Systems
