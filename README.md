@@ -8,7 +8,7 @@ I build AI-driven products that deliver business outcomes. My background include
 
 ## 🔎 What I Build
 
-I'm interested in the intersection of:
+### I'm interested in the intersection of:
 - AI workflow design • Structured LLM pipelines • Growth instrumentation • Activation & retention systems • UX patterns for trust in AI • Evaluation frameworks for generative systems
 
 ### My work emphasizes:
