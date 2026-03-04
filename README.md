@@ -59,8 +59,8 @@ I view AI product development as four layers:
 * Event-driven workflows
 
 ## 📫 Contact
-LinkedIn: [https://linkedin.com/in/pspan]
+[LinkedIn:] (https://linkedin.com/in/pspan)
 
-Website: [http://peterspannagle.com/]
+[Website:] (http://peterspannagle.com/)
 
-Substack: [http://roadmaps.substack.com]
+[Substack:] (http://roadmaps.substack.com)
