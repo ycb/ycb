@@ -37,8 +37,6 @@ Turns LinkedIn saved searches into a ranked action queue — built as a Codex MC
 - Local SQLite — no data leaves your machine
 - Human-in-the-loop review before any high-stakes action
 
-![Job Finder Dashboard](./assets/job-finder-dashboard.png)
-
 Core idea: model job search as a repeatable system, not a chat prompt.
 
 👉 See: [job-finder](https://github.com/ycb/job-finder)
