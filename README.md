@@ -50,8 +50,8 @@ I view AI product development as four layers:
 4. Measurement Layer — track behavioral impact
 
 ## 🛠 Stack & Tools
-* Claude, Codex and MCP
-* React, TypeScript, Vite
+* Claude, Codex, Cursor and MCP
+* React, TypeScript, Vite, Tailwind
 * Python and SQL
 * Supabase
 * Structured prompt pipelines
