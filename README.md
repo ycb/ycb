@@ -24,8 +24,6 @@ AI system for structured cover letter and story generation.
 - Streaming architecture
 - CI/CD (main → staging, manual prod deploy)
 
-Core idea: move from "generate text" to "generate structured, reusable narrative assets."
-
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
 ### 🎯 Job Finder — Local-First Job Intelligence Agent
@@ -35,8 +33,6 @@ Turns LinkedIn saved searches into a ranked action queue — built as a Codex MC
 - De-duped review queue with "Why It Fits" rationale per job
 - Local SQLite — no data leaves your machine
 - Human-in-the-loop review before any high-stakes action
-
-Core idea: model job search as a repeatable system, not a chat prompt.
 
 👉 See: [job-finder](https://github.com/ycb/job-finder)
 
@@ -53,8 +49,6 @@ I view AI product development as four layers:
 3. Validation Layer — enforce schema, detect failure
 4. Measurement Layer — track behavioral impact
 
-The differentiator is not model choice. It's system design and business integration.
-
 ## 🛠 Stack & Tools
 * Claude, Codex and MCP
 * React, TypeScript, Vite
@@ -66,5 +60,7 @@ The differentiator is not model choice. It's system design and business integrat
 
 ## 📫 Contact
 LinkedIn: [https://linkedin.com/in/pspan]
+
 Website: [http://peterspannagle.com/]
+
 Substack: [http://roadmaps.substack.com]
