@@ -26,7 +26,7 @@ AI system for structured cover letter and story generation.
 
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
-### 🎯 Job Finder — Local-First Job Intelligence Agent
+### 🎯 Job Finder — Local Tools for Job Intelligence Agent
 Turns LinkedIn saved searches into a ranked action queue — built as a Codex MCP agent.
 - Browser-driven LinkedIn intake via named saved searches
 - Deterministic fit scoring against a structured profile
