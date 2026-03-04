@@ -27,7 +27,6 @@ AI system for structured cover letter and story generation.
 Core idea: move from "generate text" to "generate structured, reusable narrative assets."
 
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
-👉 See: [cover-letter-agent-prototype](https://github.com/ycb/cover-letter-agent-prototype)
 
 ### 🎯 Job Finder — Local-First Job Intelligence Agent
 Turns LinkedIn saved searches into a ranked action queue — built as a Codex MCP agent.
