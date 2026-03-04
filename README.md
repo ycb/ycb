@@ -1,6 +1,6 @@
 # 👋 Peter Spannagle
 
-## AI-native product leader | Growth systems | Builder
+## AI product leader | Growth systems | Builder
 
 ### Designing and delivering AI products for trust and growth
 
