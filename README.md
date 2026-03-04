@@ -61,6 +61,6 @@ I view AI product development as four layers:
 ## 📫 Contact
 [linkedin.com/in/pspan](https://linkedin.com/in/pspan)
 
-[peterspannagle.com/)](http://peterspannagle.com/)
+[peterspannagle.com](http://peterspannagle.com/)
 
 [roadmaps.substack.com](http://roadmaps.substack.com)
