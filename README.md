@@ -18,7 +18,7 @@ I build AI-driven products that deliver business outcomes. My background include
 
 ### 🧠 Narrata — AI Career Narrative Engine
 AI system for structured cover letter and story generation.
-- Multi-stage prompt pipelines
+- Multi-stage prompt pipelines with retrieval-augmented generation and HITL
 - Structured JSON outputs + validation
 - Evaluation loops & quality scoring
 - Streaming architecture
