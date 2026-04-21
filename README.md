@@ -14,7 +14,7 @@ I build AI-driven products that deliver business outcomes. My background include
 ### My work emphasizes:
 - Clear problem framing • Structured outputs over vague completions • Instrumentation before intuition • Guardrails and failure handling • Shipping fast with measurable iteration loops
 
-- ## 🏗 How I Think About AI Product Systems
+## 🏗 How I Think About AI Product Systems
 
 I view AI product development as four layers. [Here's how I think about it in practice:](https://roadmaps.substack.com/p/how-i-design-ai-systems-a-complete)
 1. User Intent Layer — clarify job-to-be-done
