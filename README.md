@@ -24,7 +24,7 @@ I view AI product development as four layers. [Here's how I think about it in pr
 
 ## 🚀 Flagship Projects
 
-### 🎯 Job Finder — Local Job Intelligence Tools
+### 🎯 Job Finder: Computer User Agent (CUA)
 AI agent that captures job listings, scores fit, and surfaces a ranked action queue.
 - Browser automation for multi-site searches 
 - Deterministic fit scoring against a structured profile
@@ -34,7 +34,7 @@ AI agent that captures job listings, scores fit, and surfaces a ranked action qu
 
 👉 See: [job-finder](https://github.com/ycb/job-finder)
 
-### 🧠 Narrata — AI Career Narrative Engine
+### 🧠 Narrata: AI job search tools for PMs 
 AI system for structured cover letter and story generation.
 - Multi-stage prompt pipelines with retrieval-augmented generation and HITL
 - Structured JSON outputs + validation
@@ -44,12 +44,12 @@ AI system for structured cover letter and story generation.
 
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
-### ☀️ Solar App — Clean Energy Field Tool
+### ☀️ Solar App: as-built documentation for solar and storage 
 Mobile-first prototype guiding solar installers through a non-linear pre-inspection capture flow with photo/video requirements, auto-check simulation, and inspection reporting.
 
 👉 See: [solar-app](https://github.com/ycb/solar-app)
 
-### 🤖 AI Operations for Commercial Real Estate 
+### 🤖 Lance: AI Operations for Commercial Real Estate 
 AI-powered operations platform for large commercial properties. Shift supervisors manage guest issues, cross-department ticket routing, and high-stakes resolution flows — all from a single mobile surface. 
 
 👉 See: [lance](https://github.com/ycb/lance)
