@@ -49,7 +49,7 @@ Mobile-first prototype guiding solar installers through a non-linear pre-inspect
 
 👉 See: [solar-app](https://github.com/ycb/solar-app)
 
-### 🤖 Lance: AI Operations for Commercial Real Estate 
+### 🤖 Lance: streamline operations for Commercial Real Estate 
 AI-powered operations platform for large commercial properties. Shift supervisors manage guest issues, cross-department ticket routing, and high-stakes resolution flows — all from a single mobile surface. 
 
 👉 See: [lance](https://github.com/ycb/lance)
