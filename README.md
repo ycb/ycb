@@ -4,7 +4,7 @@
 
 ### Designing and delivering AI products for trust and growth
 
-I build AI-driven products that deliver business outcomes. My background includes product management, UX, and front-end engineering. I've led 0→1 at hypergrowth startups (Aurora Solar, FalconX) and delivered impact at scale for global brands (Samsung, Meta, Salesforce). My experience with AI/ML includes building explainable AI at Meta and leading NLP chatbot design for 20M Samsung users. Over the last year I've been solo-building full-stack AI products: LLM pipelines, HITL systems, evals, and CI/CD.
+I build AI-native products that deliver business outcomes. My background includes product management, UX, and front-end engineering. I've led 0→1 at hypergrowth startups (Aurora Solar, FalconX) and delivered impact at scale for global brands (Samsung, Meta, Salesforce). My experience with AI/ML includes building explainable AI at Meta and leading NLP chatbot design for 20M Samsung users. Over the last year I've been solo-building full-stack AI products: LLM pipelines, HITL systems, evals, and CI/CD.
 
 ## 🔎 What I Build
 
@@ -48,6 +48,11 @@ AI system for structured cover letter and story generation.
 Mobile-first prototype guiding solar installers through a non-linear pre-inspection capture flow with photo/video requirements, auto-check simulation, and inspection reporting.
 
 👉 See: [solar-app](https://github.com/ycb/solar-app)
+
+### 🤖 AI Operations for Commercial Real Estate 
+AI-powered operations platform for large commercial properties. Shift supervisors manage guest issues, cross-department ticket routing, and high-stakes resolution flows — all from a single mobile surface. 
+
+👉 See: [lance](https://github.com/ycb/lance)
 
 ### ⚙️ AI Development Playbook
 Operational guidelines for working effectively with AI copilots in production codebases.
