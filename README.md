@@ -59,5 +59,7 @@ Mobile-first prototype guiding solar installers through a non-linear pre-inspect
 
 👉 See: [solar-app](https://github.com/ycb/solar-app)
 
-### ⚙️ AI Development Playbook
-Operational guidelines for working effectively with AI copilots in production codebases.
+### ⚙️ AI Build Playbook
+How I build products with AI coding agents: the working agreement, exec plan and handoff templates behind Ours, as the companion to [How I design AI systems](https://roadmaps.substack.com/p/how-i-design-ai-systems-a-complete).
+
+👉 See: [ai-build-playbook](https://github.com/ycb/ai-build-playbook)
