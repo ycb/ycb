@@ -44,6 +44,16 @@ AI system for structured cover letter and story generation.
 
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
+### ⚙️ AI Build Playbook
+How I build products with AI coding agents: the working agreement, exec plan and handoff templates. Companion to [How I design AI systems](https://roadmaps.substack.com/p/how-i-design-ai-systems-a-complete).
+
+👉 See: [ai-build-playbook](https://github.com/ycb/ai-build-playbook)
+
+### ☀️ Solar App: as-built documentation for solar and storage 
+Mobile-first prototype guiding solar installers through a non-linear pre-inspection capture flow with photo/video requirements, auto-check simulation, and inspection reporting.
+
+👉 See: [solar-app](https://github.com/ycb/solar-app)
+
 ### 💞 Ours: plan time together
 Private PWA for couples to share ideas, agree on what they both want, and turn them into dates.
 - Only mutual yeses get planned; a card deck picks what's next
@@ -54,12 +64,4 @@ Private PWA for couples to share ideas, agree on what they both want, and turn t
 
 👉 See: [ours-public](https://github.com/ycb/ours-public)
 
-### ☀️ Solar App: as-built documentation for solar and storage 
-Mobile-first prototype guiding solar installers through a non-linear pre-inspection capture flow with photo/video requirements, auto-check simulation, and inspection reporting.
 
-👉 See: [solar-app](https://github.com/ycb/solar-app)
-
-### ⚙️ AI Build Playbook
-How I build products with AI coding agents: the working agreement, exec plan and handoff templates behind Ours, as the companion to [How I design AI systems](https://roadmaps.substack.com/p/how-i-design-ai-systems-a-complete).
-
-👉 See: [ai-build-playbook](https://github.com/ycb/ai-build-playbook)
