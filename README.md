@@ -45,7 +45,7 @@ AI system for structured cover letter and story generation.
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
 ### 💞 Ours: plan time together, for two
-Private PWA for couples to share ideas, agree on what they both want, and turn them into dates. In real use.
+Private PWA for couples to share ideas, agree on what they both want, and turn them into dates.
 - Only mutual yeses get planned; a card deck picks what's next
 - Reflection after each date feeds the next idea
 - Privacy enforced in Postgres with row-level security; email never carries content
