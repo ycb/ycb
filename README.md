@@ -44,33 +44,20 @@ AI system for structured cover letter and story generation.
 
 👉 See: [narrata-cover-letter-agent](https://github.com/ycb/narrata-cover-letter-agent)
 
+### 💞 Ours: plan time together, for two
+Private PWA for couples to share ideas, agree on what they both want, and turn them into dates. In real use.
+- Only mutual yeses get planned; a card deck picks what's next
+- Reflection after each date feeds the next idea
+- Privacy enforced in Postgres with row-level security; email never carries content
+- Built by directing two AI coding agents (Codex, Claude) under a written working agreement
+- Test-first: 280+ unit tests, 1,100+ database assertions, end-to-end on the real stack
+
+👉 See: [ours-public](https://github.com/ycb/ours-public)
+
 ### ☀️ Solar App: as-built documentation for solar and storage 
 Mobile-first prototype guiding solar installers through a non-linear pre-inspection capture flow with photo/video requirements, auto-check simulation, and inspection reporting.
 
 👉 See: [solar-app](https://github.com/ycb/solar-app)
 
-### 🤖 Lance: streamline operations for Commercial Real Estate 
-AI-powered operations platform for large commercial properties. Shift supervisors manage guest issues, cross-department ticket routing, and high-stakes resolution flows — all from a single mobile surface. 
-
-👉 See: [lance](https://github.com/ycb/lance)
-
 ### ⚙️ AI Development Playbook
 Operational guidelines for working effectively with AI copilots in production codebases.
-
-👉 See: [cursor-ai-coding-playbook](https://github.com/ycb/cursor-ai-coding-playbook)
-
-## 🛠 Stack & Tools
-* Claude, Codex, Cursor and MCP
-* React, TypeScript, Vite, Tailwind
-* Python and SQL
-* Supabase
-* Structured prompt pipelines
-* CI/CD automation
-* Event-driven workflows
-
-## 📫 Contact
-[linkedin.com/in/pspan](https://linkedin.com/in/pspan)
-
-[peterspannagle.com](http://peterspannagle.com/)
-
-[roadmaps.substack.com](http://roadmaps.substack.com)
