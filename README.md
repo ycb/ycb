@@ -55,7 +55,7 @@ Mobile-first prototype guiding solar installers through a non-linear pre-inspect
 👉 See: [solar-app](https://github.com/ycb/solar-app)
 
 ### 💞 Ours: plan time together
-Private PWA for couples to share ideas, agree on what they both want, and turn them into dates.
+PWA for couples to share ideas and turn them into dates.
 - Only mutual yeses get planned; a card deck picks what's next
 - Reflection after each date feeds the next idea
 - Privacy enforced in Postgres with row-level security; email never carries content
